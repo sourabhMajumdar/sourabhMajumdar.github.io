@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "One Stop portal to my Digital Presence"
+title: "Sourabh Majumdar"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
