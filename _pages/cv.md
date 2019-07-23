@@ -59,8 +59,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  * Teaching Assistant, Computer Programming Spring 2018
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Volunteer at Red Cross Society
