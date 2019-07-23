@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[**Download Resume**](https://drive.google.com/file/d/1nHqR5Yw48EVWINzx7MQwuP9UdPbPzLVT/view?usp=sharing)
 
 Education
 ======
