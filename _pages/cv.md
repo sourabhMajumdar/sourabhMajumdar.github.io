@@ -53,7 +53,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-Sourabh Majumdar, Dr. Serra Sinem Tekiroglu, Dr. Marco Guerini "Generating Challenge Datasets for Task Oriented Conversational Agents through Self-Play" accepted in Recent Advances in Natural Language Processing (RANLP),2019
 
 Teaching
 ======
