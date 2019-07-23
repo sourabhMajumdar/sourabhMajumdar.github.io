@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Computer Science and Engineering, Birla Institute of Technology and Science,Pilani,KK Birla Goa Campus, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Intern
+  * Language Technology Research Center, IIIT-Hyderabad
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
