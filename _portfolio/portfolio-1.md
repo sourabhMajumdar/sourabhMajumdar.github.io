@@ -1,7 +1,17 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Memory Augemented Neuralcoreference Model"
+excerpt: "Application of Neuralcoreference Resolution to NPTEL Transcripts"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This work was done as a part of my summer internship at MT-NLP Lab, Language Technology Research Center, Kohli Center for Intelligent Systems, IIIT-Hyderabad.
+
+The aim of this work was to explore neuralcoreference resolution on NPTEL-Lecture Transcripts provided by MHRD,Govt of India.
+
+We applied State-the-art neuralcoreference models on the lecture transcripts, identified it’s weak points and presented our solution to the problem.
+
+Important Links
+-----------------
+
+* [**Code**](https://github.com/sourabhMajumdar/CoreferenceResolution)
+* [**Report**](https://drive.google.com/file/d/1swknzIkiPhwvDBYvnjDEgjGsGW9TOqx6/view?usp=sharing)
