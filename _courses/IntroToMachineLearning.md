@@ -1,3 +1,11 @@
+---
+title: "Introduction to Machine Learning Fall 2019"
+collection: courses
+permalink: /courses/IntroToMachineLearning
+excerpt: 'Introduction to basic methadologies to perform Machine Learning'
+venue: 'University at Buffalo, The State University of New York'
+paperurl: ''
+---
 # Introduction to Machine Learning Fall 2019
 
 This course aims to introduce the basic concepts of machine learning like supervised, semi-supervised and un-supervised learning.
