@@ -10,7 +10,9 @@
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
+    color : 'blue';
 }
 .container .content {
     display: none;
     padding : 5px;
+}
