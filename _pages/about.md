@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, My name is Sourabh Majumdar and I have recently graduated from **Birla Institute of Technology and Science, Pilani, KK Birla Goa Campus** with a bachelors degree in **Computer Science**. I am currently pursuing my masters Degree in **Computer Science** at the **Department of Computer Science, University at Buffalo, The State University of New York.**
+Hello, My name is Sourabh Majumdar and I have recently graduated from **Birla Institute of Technology and Science, Pilani, KK Birla Goa Campus** with a bachelors degree in **Computer Science**. I am currently pursuing my masters degree in **Computer Science** at the **Department of Computer Science, University at Buffalo, The State University of New York.**
 
 ## My Interests
 
