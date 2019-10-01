@@ -142,7 +142,7 @@
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
+      color: blue;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
@@ -186,7 +186,7 @@
   }
 
   a {
-    color: #fff;
+    color: blue;
     text-decoration: none;
   }
 }
@@ -227,7 +227,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(green, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
