@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Machine Learning Fall 2019"
 collection: courses
-permalink: /courses/IntroToMachineLearning
+permalink: /courses/IntroToMachineLearning.md
 excerpt: 'Introduction to basic methadologies to perform Machine Learning'
 venue: 'University at Buffalo, The State University of New York'
 paperurl: ''
