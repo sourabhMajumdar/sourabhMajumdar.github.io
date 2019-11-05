@@ -6,7 +6,6 @@ excerpt: 'Constructing Challenge Sets for Low Resource Domains in Conversational
 date: 2019-09-02
 venue: 'Recent Advances in Natural Language Processing'
 paperurl: 'https://arxiv.org/abs/1910.07357'
-citation: 'Sourabh Majumdar, Sou. (2019). &quot; Generating Challenge Datasets for Task Oriented Conversational Agents through Self-Play.&quot; <i>Recent Advances in Natural Language Processing, 2019</i>.'
+citation: 'Sourabh Majumdar, Maj. (2019). &quot; Generating Challenge Datasets for Task Oriented Conversational Agents through Self-Play.&quot; <i>Recent Advances in Natural Language Processing, 2019</i>.'
 ---
 
-Recommended citation: Sourabh Majumdar, Majumdar (2019). "Generating Challenge Datasets for Task Oriented Conversational Agents through Self-Play" <i>Recent Advances in Natural Language Processing</i>.
