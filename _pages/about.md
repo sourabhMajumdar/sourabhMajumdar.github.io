@@ -12,4 +12,4 @@ Nice to meet you fellow web surfer, my name is Sourabh Majumdar and I am a compu
 
 ## My Interests
 
-I aim to build game changing applications with high soceital impact that inspire me and my peers. I also have a keen interest in building towards *Artificial General Intelligence*
+I aim to build game changing applications with high soceital impact that inspire me and my peers. 
